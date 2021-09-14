@@ -1,0 +1,19 @@
+C:\Users\Nelson\Desktop\Practice2\Practice2\bin\Debug\Practice2.exe.config
+C:\Users\Nelson\Desktop\Practice2\Practice2\obj\Debug\Practice2.csprojResolveAssemblyReference.cache
+C:\Users\Nelson\Desktop\Practice2\Practice2\bin\Debug\Practice2.exe
+C:\Users\Nelson\Desktop\Practice2\Practice2\bin\Debug\Practice2.pdb
+C:\Users\Nelson\Desktop\Practice2\Practice2\obj\Debug\Practice2.exe
+C:\Users\Nelson\Desktop\Practice2\Practice2\obj\Debug\Practice2.pdb
+C:\Users\Catalyst\Documents\Documents\Second Year Stuff\SOD\Exercises\Dictionary\Practice2\Practice2\bin\Debug\Practice2.exe.config
+C:\Users\Catalyst\Documents\Documents\Second Year Stuff\SOD\Exercises\Dictionary\Practice2\Practice2\obj\Debug\Practice2.exe
+C:\Users\Catalyst\Documents\Documents\Second Year Stuff\SOD\Exercises\Dictionary\Practice2\Practice2\obj\Debug\Practice2.pdb
+C:\Users\Catalyst\Documents\Documents\Second Year Stuff\SOD\Exercises\Dictionary\Practice2\Practice2\bin\Debug\Practice2.exe
+C:\Users\Catalyst\Documents\Documents\Second Year Stuff\SOD\Exercises\Dictionary\Practice2\Practice2\bin\Debug\Practice2.pdb
+C:\Users\Catalyst\Documents\Documents\Second Year Stuff\SOD\Exercises\Dictionary\Practice2\Practice2\obj\Debug\Practice2.csprojResolveAssemblyReference.cache
+C:\Users\Catalyst\Documents\Documents\Second Year Stuff\Semester 1\SOD\Exercises\Dictionary\Practice2\Practice2\bin\Debug\Practice2.exe.config
+C:\Users\Catalyst\Documents\Documents\Second Year Stuff\Semester 1\SOD\Exercises\Dictionary\Practice2\Practice2\bin\Debug\Practice2.exe
+C:\Users\Catalyst\Documents\Documents\Second Year Stuff\Semester 1\SOD\Exercises\Dictionary\Practice2\Practice2\bin\Debug\Practice2.pdb
+C:\Users\Catalyst\Documents\Documents\Second Year Stuff\Semester 1\SOD\Exercises\Dictionary\Practice2\Practice2\obj\Debug\Practice2.csprojAssemblyReference.cache
+C:\Users\Catalyst\Documents\Documents\Second Year Stuff\Semester 1\SOD\Exercises\Dictionary\Practice2\Practice2\obj\Debug\Practice2.csproj.CoreCompileInputs.cache
+C:\Users\Catalyst\Documents\Documents\Second Year Stuff\Semester 1\SOD\Exercises\Dictionary\Practice2\Practice2\obj\Debug\Practice2.exe
+C:\Users\Catalyst\Documents\Documents\Second Year Stuff\Semester 1\SOD\Exercises\Dictionary\Practice2\Practice2\obj\Debug\Practice2.pdb
