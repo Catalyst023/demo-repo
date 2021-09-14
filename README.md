@@ -1,8 +1,8 @@
-# feature branch
+# Master branch
 
-#### Feature testing
-Testing feature
+#### Master testing
+Testing master
 
 ### No overwriting
-We will not change anything from the given master branch
+Do not change anything from the given master branch
 
