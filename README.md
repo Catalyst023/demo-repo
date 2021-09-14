@@ -14,3 +14,5 @@ Make sure never to add anything on the words from the master branch
 
 Trying to add some lines to the master branch without overwriting
 
+We are just editing the branch to add to the master safely
+#### I might be getting the hang of this
